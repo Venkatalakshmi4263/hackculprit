@@ -6,7 +6,7 @@
 **Name:** [Your Full Name]  
 **Internship Role:** Virtual Intern  
 **Organization:** Hack Culprit  
-**GitHub Profile:** [@yourusername](https://github.com/yourusername)  
+**GitHub Profile:** [@yourusername](https://github.com/venkatalakshmi4263)  
 **Project Duration:** [Start Date] – [End Date]  
 **Project Repository:** [GitHub Repo URL]
 
